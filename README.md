@@ -1,25 +1,20 @@
-# Python Mini Projects 🚀
+🐍 Python Mini Projects
+A collection of beginner-friendly Python projects to practice core programming concepts, logic building, and problem-solving.
 
-This repo is part of my AI/ML learning journey.
+📌 What’s inside?
+Project	Description
+✅ Simple Calculator	Basic arithmetic operations using functions
+✅ Number Guessing Game	Random number generator with user input and guess checks
+✅ To-Do List (CLI)	Command-line app to add, remove, and view tasks
+✅ Password Generator	Random strong password generator using Python’s random library
+✅ Web Scraper (Coming Soon)	Basic web scraping using requests and BeautifulSoup
 
-## 📅 Timeline:
-**Start Date:** June 28, 2025  
-**Goal:** Finish core Python projects by July 5, 2025  
+🛠️ Skills Used / Practiced
+Python basics (loops, functions, conditionals)
+File handling
+Random module
+Basic OOP (where needed)
+CLI interaction
 
-## ✅ Project List:
-
-1. ✅ Simple Calculator  
-2. 🔨 Web Scraper (WIP)  
-3. 🕹️ Basic Chatbot  
-4. 📊 Data Visualizer  
-
-Each project will have its own folder with:  
-- Code  
-- README (explaining what the project does)  
-
-## ⚡ Why I'm Doing This:
-Building up my coding logic, project workflow, and GitHub presence as I prepare for AI/ML internships.
-
----
-
-Stay tuned... more coming soon 👾
+🚀 Why this repo exists:
+This repo is part of my AI/ML learning journey, where I’m improving my Python fundamentals before diving deep into real-world AI projects.
